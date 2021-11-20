@@ -6,7 +6,6 @@ RENCANA BELAJAR PROGRAMMING:
       ^ React
   - PHP
     * Laravel
-  - Fundamental Data Structure
   - MySql
   - Node.js
   - Kotlin
