@@ -1,9 +1,12 @@
 RENCANA BELAJAR PROGRAMMING:
   - Javascript
     * ES6
+    * Framework Javascript
+      ^ Vue
   - PHP
     * Laravel
   - Fundamental Data Structure
   - MySql
   - Node.js
   - Kotlin
+  - Python
