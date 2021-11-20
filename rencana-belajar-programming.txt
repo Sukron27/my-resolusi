@@ -1,0 +1,6 @@
+RENCANA BELAJAR PROGRAMMING:
+  - Javascript
+  - PHP
+  - MySql
+  - Node.js
+  - Kotlin
