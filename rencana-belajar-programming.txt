@@ -3,6 +3,7 @@ RENCANA BELAJAR PROGRAMMING:
     * ES6
   - PHP
     * Laravel
+  - Fundamental Data Structure
   - MySql
   - Node.js
   - Kotlin
